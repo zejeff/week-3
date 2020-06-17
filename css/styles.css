@@ -1,5 +1,9 @@
 .invert {
   color: white;
-  background-color: black;
+  background-image: linear-gradient(to right, cyan, blue);
 
+}
+img {
+  float: left;
+  
 }
