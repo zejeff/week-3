@@ -2,9 +2,9 @@
 ## Epicodus Week 3 - Independent Project
 ### A demonstration of concept understanding and usage of HTML/CSS
 ### to view the page live:
-* https://zejeff.github.io/Week-3/
+* https://zejeff.github.io/week-3/
 ### To setup for local usage:
-* Download and extract: https://github.com/zejeff/Week-3/archive/master.zip
+* Download and extract: https://github.com/zejeff/week-3/archive/master.zip
 * Open the folder - week-3-master
 * Run/Load index.html in your browser, for best results use Google Chrome
 #### Copyright 2020 Jeffry Fleischer
